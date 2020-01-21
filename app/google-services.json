@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "973100548770",
+    "firebase_url": "https://testingocr-61e57.firebaseio.com",
+    "project_id": "testingocr-61e57",
+    "storage_bucket": "testingocr-61e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973100548770:android:b57fce28309bb762034dfb",
+        "android_client_info": {
+          "package_name": "com.ajeetkumar.textdetectionusingmlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973100548770-h70kinpki6r9695bl2jn75eltlerqtha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4Uq5l0Itk2EyrSXZZw14Oa6YgnA_Xv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973100548770-h70kinpki6r9695bl2jn75eltlerqtha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973100548770:android:6510208e90ab9c4e034dfb",
+        "android_client_info": {
+          "package_name": "com.example.buttoncamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973100548770-h70kinpki6r9695bl2jn75eltlerqtha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4Uq5l0Itk2EyrSXZZw14Oa6YgnA_Xv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973100548770-h70kinpki6r9695bl2jn75eltlerqtha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
